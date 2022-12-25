@@ -1,0 +1,23 @@
+.user-label {
+    padding: 5px 12px;
+    color: white;
+    border-radius: 5px;
+    max-width: 50px;
+    text-align: center;
+}
+
+.user-label_male {
+    background-color: #2da9d9;
+}
+
+.user-label_female {
+    background-color: #b73377;
+}
+
+.user-label_active {
+background-color: #4caf50;
+}
+
+.user-label_inactive {
+    background-color: #f44336;
+}
