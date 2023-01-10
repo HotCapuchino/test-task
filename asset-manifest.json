@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HotCapuchino/test-task/static/css/main.90686f8d.css",
+    "main.js": "/HotCapuchino/test-task/static/js/main.82ee8726.js",
+    "static/media/man-image.png": "/HotCapuchino/test-task/static/media/man-image.c7d02c9463a3231596c5.png",
+    "static/media/girl-image.png": "/HotCapuchino/test-task/static/media/girl-image.d01dd9767a9585e95d3f.png",
+    "index.html": "/HotCapuchino/test-task/index.html",
+    "main.90686f8d.css.map": "/HotCapuchino/test-task/static/css/main.90686f8d.css.map",
+    "main.82ee8726.js.map": "/HotCapuchino/test-task/static/js/main.82ee8726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90686f8d.css",
+    "static/js/main.82ee8726.js"
+  ]
+}
